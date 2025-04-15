@@ -1,0 +1,17 @@
+.weatherList
+{
+    background: rgb(255, 252, 252);
+    border-radius: 10px;
+}
+.detailContainer
+{
+    display:flex;
+    flex-direction:column;
+    background-color: rgb(228, 246, 255);
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 1rem;
+}
+ul{
+    list-style-type:square;
+}
